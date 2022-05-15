@@ -8,7 +8,5 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabytestes&layout=compact&theme=algolia" alt="fabytestes's most languages"/>
 </p>
 
-
-
-  ![Snake animation](https://github.com/fabytestes/fabytestes/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/fabytestes/fabytestes/blob/output/github-contribution-grid-snake.svg)
  
