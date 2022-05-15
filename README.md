@@ -4,15 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-fabytestes/fabytestes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-algolia: {
-    title_color: "00AEFF",
-    icon_color: "2DDE98",
-    text_color: "FFFFFF",
-    bg_color: "050F2C",
-  },
-
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=fabytestes&show_icons=true&theme=algolia" alt="fabytestes's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabytestes&layout=compact&theme=algolia" alt="fabytestes's most languages"/>
+</p>
