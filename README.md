@@ -7,7 +7,3 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=fabytestes&show_icons=true&theme=algolia" alt="fabytestes's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabytestes&layout=compact&theme=algolia" alt="fabytestes's most languages"/>
 </p>
-
-
- 
-[![Generate Datas](https://github.com/fabytestes/fabytestes/actions/workflows/snake.yml/badge.svg)](https://github.com/fabytestes/fabytestes/actions/workflows/snake.yml)
