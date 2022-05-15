@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Daniel Chaves
-- 🧑‍🎓 I'm student- 🌱 I’m currently learning analysis and systems development
+- 🧑‍🎓 I'm student
+- 🌱 I’m currently learning analysis and systems development
 - 👀 I’m interested in games, programming and cats
 
 <p align="left">
